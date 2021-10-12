@@ -1,0 +1,54 @@
+body{
+    background-color: lightsteelblue;
+}
+
+ .div_heading{
+     font-weight: bolder;
+     background-color:mediumpurple;
+     color: white;
+     font-family: 'Explora', cursive;
+     font-size: 50px;
+     letter-spacing: 3px;
+}
+
+
+ .note{
+     font-size: 20px;
+     font-family: 'Slabo 27px', serif;
+     color: maroon;
+     letter-spacing: 3px;
+ }
+
+ .start{
+     margin-top: 15px;
+     letter-spacing: 3px;
+     background-color: white;
+     border-color: maroon;
+     color: maroon;
+     width: 280px;
+
+ }
+
+ #noise, #accuracy{
+     font-size: 25px;
+     font-family: 'Explora', cursive;
+     letter-spacing: 3px;
+     font-weight: bolder;
+ }
+
+ .copyright_footer{
+     position: fixed;
+     bottom: 0;
+     text-align: center;
+     font-family: 'Slabo 27px', serif;
+     line-height: 20px;
+     font-size: 25px;
+     background-color: mediumpurple;
+     padding: 10px;
+     width: 100%;
+     color: maroon;
+     font-weight: bold;
+     letter-spacing: 2px;
+
+ }
+
